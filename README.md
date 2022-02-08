@@ -8,8 +8,8 @@
 > 📃 More on my [LinkedIn](https://www.linkedin.com/in/syed-jawad-hassan-026bb214a/)
 ### 📬 Connect with me:
 
-[<img align="left" title="lopatiev | LinkedIn" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/linkedin.png" />][linkedin]
-[<img align="left" title="dmitriy.lopatiev | Gmail" width="40px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/gmail.png" />][gmail]
+[<img align="left" title="lopatiev | LinkedIn" width="40px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/linkedin.png" />][linkedin]
+[<img align="left" title="dmitriy.lopatiev | Gmail" width="40px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/gmail.png" />][gmail]
 
 <br />
 
@@ -20,10 +20,10 @@
     <tr>
         <td><b>Development Tools</b></td>
         <td>
-            <img title="Visual Studio 2019" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/visual-studio-2019.png" />
-            <img title="Visual Studio Code" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/visual-studio-code-2019.png" />
-            <img title="PowerShell" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/powershell.png" />
-            <img title="Console" width="33px" src="https://github.com/SH4KUR/SH4KUR/blob/master/icons/console.png" />
+            <img title="Visual Studio 2019" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/visual-studio-2019.png" />
+            <img title="Visual Studio Code" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/visual-studio-code-2019.png" />
+            <img title="PowerShell" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/powershell.png" />
+            <img title="Console" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/console.png" />
         </td>
     </tr>
     <tr>
