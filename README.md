@@ -8,8 +8,8 @@
 > 📃 More on my [LinkedIn](https://www.linkedin.com/in/syed-jawad-hassan-026bb214a/)
 ### 📬 Connect with me:
 
-[<img align="left" title="lopatiev | LinkedIn" width="40px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/linkedin.png" />][linkedin]
-[<img align="left" title="dmitriy.lopatiev | Gmail" width="40px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/gmail.png" />][gmail]
+[<img align="left" title="jawad | LinkedIn" width="40px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/linkedin.png" />][linkedin]
+[<img align="left" title="jhassan931 | Gmail" width="40px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/gmail.png" />][gmail]
 
 <br />
 
@@ -20,8 +20,8 @@
     <tr>
         <td><b>Development Tools</b></td>
         <td>
-            <img title="Visual Studio 2019" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/visual-studio-2019.png" />
-            <img title="Visual Studio Code" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/visual-studio-code-2019.png" />
+            <img title="Visual Studio" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/visual-studio-2019.png" />
+            <img title="VS Code" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/visual-studio-code-2019.png" />
             <img title="PowerShell" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/powershell.png" />
             <img title="Console" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/console.png" />
         </td>
@@ -30,7 +30,7 @@
         <td><b>Languages</b></td>
         <td>
             <img title="C#" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/c-sharp.png" />
-            <img title="Bootstrap 4" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/Angular.png" />
+            <img title="Angular" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/Angular.png" />
             <img title="TypeScript" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/typescript.png" />
             <img title="JavaScript" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/javascript.png" />
             <img title="Bootstrap 4" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/bootstrap.png" />            
@@ -39,7 +39,7 @@
     <tr>
         <td><b>Databases</b></td>
         <td>
-            <img title="Microsoft SQL Server" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/microsoft-sql-server.png" />
+            <img title="SQL Server" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/microsoft-sql-server.png" />
             <img title="MySQL" width="33px" src="https://github.com/Jawad445/Jawad445/blob/master/icons/mysql.png" />
         </td>
     </tr>
